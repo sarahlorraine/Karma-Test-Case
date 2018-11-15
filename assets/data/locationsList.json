@@ -1,0 +1,3502 @@
+[
+    {
+        "id": 4702,
+        "name": "Bistro J",
+        "latitude": 56.182654,
+        "longitude": 15.590233,
+        "following": true
+    },
+    {
+        "id": 3444,
+        "name": "Teaterbaren",
+        "latitude": 59.332147,
+        "longitude": 18.065075,
+        "following": true
+    },
+    {
+        "id": 3547,
+        "name": "Quisine",
+        "latitude": 59.328801,
+        "longitude": 18.045245,
+        "following": true
+    },
+    {
+        "id": 5161,
+        "name": "Indian Grill Hötorgterassen",
+        "latitude": 59.334661,
+        "longitude": 18.063666,
+        "following": false
+    },
+    {
+        "id": 4228,
+        "name": "Gröna Deli Lund Saluhall",
+        "latitude": 55.701603,
+        "longitude": 13.194844,
+        "following": true
+    },
+    {
+        "id": 4460,
+        "name": "PONG Buffé",
+        "latitude": 59.336253,
+        "longitude": 18.058636,
+        "following": false
+    },
+    {
+        "id": 4080,
+        "name": "Taku Taku",
+        "latitude": 59.341536,
+        "longitude": 18.064502,
+        "following": false
+    },
+    {
+        "id": 3838,
+        "name": "Erssons Sickla",
+        "latitude": 59.304548,
+        "longitude": 18.130748,
+        "following": false
+    },
+    {
+        "id": 3333,
+        "name": "Wayne's Coffee Drottninggatan 33",
+        "latitude": 59.331518,
+        "longitude": 18.063325,
+        "following": true
+    },
+    {
+        "id": 4226,
+        "name": "Marstrands Havshotell",
+        "latitude": 57.886238,
+        "longitude": 11.590473,
+        "following": true
+    },
+    {
+        "id": 4489,
+        "name": "Hälsö Fisk",
+        "latitude": 57.8702114,
+        "longitude": 11.9802826,
+        "following": false
+    },
+    {
+        "id": 4772,
+        "name": "Hemköp Lidingö Brevik",
+        "latitude": 59.3482933,
+        "longitude": 18.2052021,
+        "following": true
+    },
+    {
+        "id": 3714,
+        "name": "Eklundshof",
+        "latitude": 59.843342,
+        "longitude": 17.647866,
+        "following": false
+    },
+    {
+        "id": 4375,
+        "name": "Wisingsborgs Trädgård ",
+        "latitude": 58.0352801536025,
+        "longitude": 14.3481839171631,
+        "following": false
+    },
+    {
+        "id": 4136,
+        "name": "Scandic Hallandia",
+        "latitude": 56.672781,
+        "longitude": 12.857898,
+        "following": true
+    },
+    {
+        "id": 5509,
+        "name": "Blidö Bageri",
+        "latitude": 59.616435,
+        "longitude": 18.8940250000001,
+        "following": true
+    },
+    {
+        "id": 4929,
+        "name": "Lunchesset Hedin",
+        "latitude": 57.714736,
+        "longitude": 12.910843,
+        "following": false
+    },
+    {
+        "id": 4542,
+        "name": "Greenstreet Café",
+        "latitude": 59.334922,
+        "longitude": 18.0645982999999,
+        "following": false
+    },
+    {
+        "id": 4658,
+        "name": "Sodexo Stjärnköket (anställda)",
+        "latitude": 59.617648,
+        "longitude": 17.880605,
+        "following": false
+    },
+    {
+        "id": 4956,
+        "name": "Göteborgs choklad & karamellfabrik",
+        "latitude": 57.7074923,
+        "longitude": 11.9635079,
+        "following": true
+    },
+    {
+        "id": 4289,
+        "name": "Rutabaga",
+        "latitude": 59.329684,
+        "longitude": 18.075638,
+        "following": false
+    },
+    {
+        "id": 5346,
+        "name": "Acai & Sånt Lomma",
+        "latitude": 55.6758801,
+        "longitude": 13.0667816,
+        "following": true
+    },
+    {
+        "id": 4487,
+        "name": "Bröd & Salt Tullhus 3",
+        "latitude": 59.322917,
+        "longitude": 18.075297,
+        "following": true
+    },
+    {
+        "id": 4306,
+        "name": "Hugo W",
+        "latitude": 59.861374,
+        "longitude": 17.644782,
+        "following": true
+    },
+    {
+        "id": 4071,
+        "name": "Raw Food House",
+        "latitude": 55.59504,
+        "longitude": 13.004803,
+        "following": false
+    },
+    {
+        "id": 4052,
+        "name": "Estniska Husets Festvåning",
+        "latitude": 59.336218,
+        "longitude": 18.05363,
+        "following": false
+    },
+    {
+        "id": 3351,
+        "name": "Wayne's Coffee Akademiebokhandeln",
+        "latitude": 59.335264,
+        "longitude": 18.061307,
+        "following": true
+    },
+    {
+        "id": 3876,
+        "name": "Äteriet",
+        "latitude": 60.483425,
+        "longitude": 15.429236,
+        "following": false
+    },
+    {
+        "id": 5321,
+        "name": "Hemköp Göteborg Mölnlycke",
+        "latitude": 57.658215,
+        "longitude": 12.114111,
+        "following": true
+    },
+    {
+        "id": 5441,
+        "name": "SNÖ ",
+        "latitude": 59.3407757,
+        "longitude": 18.0418056999999,
+        "following": false
+    },
+    {
+        "id": 5616,
+        "name": "Caffé Dallucci",
+        "latitude": 59.201639,
+        "longitude": 17.619495,
+        "following": false
+    },
+    {
+        "id": 5707,
+        "name": "Restaurang MAT",
+        "latitude": 55.5908921406933,
+        "longitude": 13.020818738623,
+        "following": false
+    },
+    {
+        "id": 4817,
+        "name": "Hemköp Hudiksvall C",
+        "latitude": 61.729238,
+        "longitude": 17.103357,
+        "following": true
+    },
+    {
+        "id": 4913,
+        "name": "Le Café",
+        "latitude": 59.330223,
+        "longitude": 18.055445,
+        "following": true
+    },
+    {
+        "id": 3933,
+        "name": "Astra Zeneca - Café Fika",
+        "latitude": 59.178807,
+        "longitude": 17.677833,
+        "following": true
+    },
+    {
+        "id": 3410,
+        "name": "Kitchen & Table - Norrmalm",
+        "latitude": 59.334671,
+        "longitude": 18.053071,
+        "following": true
+    },
+    {
+        "id": 3813,
+        "name": "Goda Mackan",
+        "latitude": 59.873922,
+        "longitude": 17.636536,
+        "following": false
+    },
+    {
+        "id": 4034,
+        "name": "Smakfyllt",
+        "latitude": 57.699706,
+        "longitude": 11.960415,
+        "following": true
+    },
+    {
+        "id": 4322,
+        "name": "Charlies Bistro",
+        "latitude": 57.6868752,
+        "longitude": 11.982953,
+        "following": true
+    },
+    {
+        "id": 4580,
+        "name": "Birka Folkhögskola",
+        "latitude": 63.2361698,
+        "longitude": 14.5385135,
+        "following": true
+    },
+    {
+        "id": 3345,
+        "name": "Wayne's Coffee Ringvägen 149",
+        "latitude": 59.309231,
+        "longitude": 18.08328,
+        "following": false
+    },
+    {
+        "id": 4311,
+        "name": "Sörbyn Turism & Konferens",
+        "latitude": 65.7579314,
+        "longitude": 21.7597013,
+        "following": true
+    },
+    {
+        "id": 3925,
+        "name": "Restaurang Rött",
+        "latitude": 59.340293,
+        "longitude": 18.031593,
+        "following": false
+    },
+    {
+        "id": 5375,
+        "name": "Mini Kasai",
+        "latitude": 59.3343758,
+        "longitude": 18.0707443,
+        "following": true
+    },
+    {
+        "id": 4231,
+        "name": "Rolfs Kök",
+        "latitude": 59.338722,
+        "longitude": 18.057036,
+        "following": false
+    },
+    {
+        "id": 4256,
+        "name": "Fraiche Catering",
+        "latitude": 59.343767,
+        "longitude": 17.925105,
+        "following": true
+    },
+    {
+        "id": 5622,
+        "name": "Café Plus Middlepoint",
+        "latitude": 59.4058943,
+        "longitude": 17.9539095,
+        "following": false
+    },
+    {
+        "id": 4659,
+        "name": "Clarion Hotel Amaranten",
+        "latitude": 59.331367,
+        "longitude": 18.045054,
+        "following": false
+    },
+    {
+        "id": 5630,
+        "name": "Moccado",
+        "latitude": 58.400364,
+        "longitude": 15.580859,
+        "following": true
+    },
+    {
+        "id": 5578,
+        "name": "Sällskapet Restaurang",
+        "latitude": 58.3896889,
+        "longitude": 13.8508231000001,
+        "following": true
+    },
+    {
+        "id": 3984,
+        "name": "Arrenius & company",
+        "latitude": 59.857427,
+        "longitude": 17.636633,
+        "following": true
+    },
+    {
+        "id": 4570,
+        "name": "Restauranghögskolan",
+        "latitude": 63.8214743,
+        "longitude": 20.3015405,
+        "following": false
+    },
+    {
+        "id": 5194,
+        "name": "Yogiboost Galleria Boulevard",
+        "latitude": 56.030321,
+        "longitude": 14.159235,
+        "following": true
+    },
+    {
+        "id": 5602,
+        "name": "TAKO",
+        "latitude": 59.3375144,
+        "longitude": 18.069749,
+        "following": true
+    },
+    {
+        "id": 3611,
+        "name": "Cafe Svea",
+        "latitude": 57.692666,
+        "longitude": 11.955265,
+        "following": true
+    },
+    {
+        "id": 4064,
+        "name": "Restaurang Edison",
+        "latitude": 55.717343,
+        "longitude": 13.217868,
+        "following": false
+    },
+    {
+        "id": 4783,
+        "name": "Hemköp Norrköping Lasarettsgatan",
+        "latitude": 58.5834021,
+        "longitude": 16.1785232,
+        "following": true
+    },
+    {
+        "id": 4522,
+        "name": "Fröjdas",
+        "latitude": 59.3043441,
+        "longitude": 18.1137733,
+        "following": true
+    },
+    {
+        "id": 4887,
+        "name": "Pick & Choose salad & juice ",
+        "latitude": 55.5992979,
+        "longitude": 13.0086645,
+        "following": false
+    },
+    {
+        "id": 4156,
+        "name": "Brot",
+        "latitude": 59.34435,
+        "longitude": 18.05778,
+        "following": false
+    },
+    {
+        "id": 3356,
+        "name": "Kalf & Hansen Hammarby Sjöstad",
+        "latitude": 59.301789,
+        "longitude": 18.103166,
+        "following": true
+    },
+    {
+        "id": 3976,
+        "name": "Scandic Swania",
+        "latitude": 58.28458,
+        "longitude": 12.285825,
+        "following": true
+    },
+    {
+        "id": 4083,
+        "name": "Cando",
+        "latitude": 57.687305,
+        "longitude": 11.991192,
+        "following": false
+    },
+    {
+        "id": 3428,
+        "name": "Gateau Södra Larmgatan 4",
+        "latitude": 57.702651,
+        "longitude": 11.963432,
+        "following": true
+    },
+    {
+        "id": 5333,
+        "name": "Hemköp Stockholm Odenplan",
+        "latitude": 59.343406,
+        "longitude": 18.045914,
+        "following": false
+    },
+    {
+        "id": 4782,
+        "name": "Hemköp Lomma C",
+        "latitude": 55.6732204,
+        "longitude": 13.0702017999999,
+        "following": false
+    },
+    {
+        "id": 3610,
+        "name": "Kallskänken",
+        "latitude": 56.66574,
+        "longitude": 16.35556,
+        "following": true
+    },
+    {
+        "id": 4622,
+        "name": "Restaurang SMAK",
+        "latitude": 55.5946867,
+        "longitude": 13.0001173000001,
+        "following": false
+    },
+    {
+        "id": 5319,
+        "name": "Hemköp Malmö Triangeln",
+        "latitude": 55.596253,
+        "longitude": 13.001876,
+        "following": true
+    },
+    {
+        "id": 5048,
+        "name": "Preem - Stenungsund",
+        "latitude": 58.059477,
+        "longitude": 11.878088,
+        "following": false
+    },
+    {
+        "id": 3603,
+        "name": "Scandic Umeå Syd",
+        "latitude": 63.815947,
+        "longitude": 20.2510589999999,
+        "following": true
+    },
+    {
+        "id": 4010,
+        "name": "Restaurang Brandstation",
+        "latitude": 62.389468,
+        "longitude": 17.300982,
+        "following": false
+    },
+    {
+        "id": 4931,
+        "name": "Sapori",
+        "latitude": 57.722393,
+        "longitude": 12.940291,
+        "following": true
+    },
+    {
+        "id": 3329,
+        "name": "Meatballs for the People",
+        "latitude": 59.314612,
+        "longitude": 18.08144,
+        "following": true
+    },
+    {
+        "id": 4321,
+        "name": "Quality Hotel View",
+        "latitude": 55.561774,
+        "longitude": 12.976461,
+        "following": false
+    },
+    {
+        "id": 3988,
+        "name": "Barley's Food Factory",
+        "latitude": 57.720003,
+        "longitude": 11.948529,
+        "following": true
+    },
+    {
+        "id": 4505,
+        "name": "Kaffelunden",
+        "latitude": 57.7132578,
+        "longitude": 12.0071591,
+        "following": true
+    },
+    {
+        "id": 4099,
+        "name": "Upper East",
+        "latitude": 59.406802,
+        "longitude": 17.956045,
+        "following": false
+    },
+    {
+        "id": 4093,
+        "name": "Astars Restaurang och bageri & konditoriutbildning",
+        "latitude": 63.841354,
+        "longitude": 20.224335,
+        "following": true
+    },
+    {
+        "id": 5673,
+        "name": "Soulistic Food Truck ",
+        "latitude": 59.2857039,
+        "longitude": 18.0093264,
+        "following": false
+    },
+    {
+        "id": 5000,
+        "name": "Rojo:s Bageri",
+        "latitude": 57.3455602,
+        "longitude": 14.4736593,
+        "following": false
+    },
+    {
+        "id": 5290,
+        "name": "Avokado Malmö",
+        "latitude": 55.5979816161314,
+        "longitude": 12.9987883502624,
+        "following": true
+    },
+    {
+        "id": 4795,
+        "name": "TAK",
+        "latitude": 59.3305547,
+        "longitude": 18.0671027,
+        "following": false
+    },
+    {
+        "id": 3429,
+        "name": "Estelles Café & Mat",
+        "latitude": 57.684021,
+        "longitude": 11.972366,
+        "following": true
+    },
+    {
+        "id": 4418,
+        "name": "Kaffebaren Java",
+        "latitude": 58.398233,
+        "longitude": 15.576156,
+        "following": false
+    },
+    {
+        "id": 3453,
+        "name": "Kök:17",
+        "latitude": 57.699802,
+        "longitude": 11.945826,
+        "following": false
+    },
+    {
+        "id": 4695,
+        "name": "Hellidens Konferens o logi",
+        "latitude": 58.1731587,
+        "longitude": 13.9800432,
+        "following": false
+    },
+    {
+        "id": 5417,
+        "name": "Phil´s Burger Eskilstuna",
+        "latitude": 59.3691158,
+        "longitude": 16.5178653,
+        "following": false
+    },
+    {
+        "id": 5569,
+        "name": "Blueberry Centralen",
+        "latitude": 59.3304158,
+        "longitude": 18.056027,
+        "following": false
+    },
+    {
+        "id": 3762,
+        "name": "Hava Skafferi & Salonger",
+        "latitude": 59.860961,
+        "longitude": 17.634789,
+        "following": true
+    },
+    {
+        "id": 3673,
+        "name": "Sankt Jörgen Park Greenhouse",
+        "latitude": 57.743864,
+        "longitude": 11.944517,
+        "following": true
+    },
+    {
+        "id": 4108,
+        "name": "K-märkt Mäster Samuelsgatan 28",
+        "latitude": 59.334277,
+        "longitude": 18.067204,
+        "following": false
+    },
+    {
+        "id": 3499,
+        "name": "Ekogården",
+        "latitude": 59.355364,
+        "longitude": 18.178323,
+        "following": false
+    },
+    {
+        "id": 4352,
+        "name": "Salads and Smoothies - Studio",
+        "latitude": 55.612109,
+        "longitude": 12.994574,
+        "following": false
+    },
+    {
+        "id": 5607,
+        "name": "Linköpings Universitet/Rest. Kårallen",
+        "latitude": 58.400621,
+        "longitude": 15.578485,
+        "following": false
+    },
+    {
+        "id": 4112,
+        "name": "Scandic Örnsköldsvik",
+        "latitude": 63.303015,
+        "longitude": 18.732712,
+        "following": true
+    },
+    {
+        "id": 4584,
+        "name": "Visingö Pensionat",
+        "latitude": 58.0164182,
+        "longitude": 14.3173707,
+        "following": true
+    },
+    {
+        "id": 3570,
+        "name": "Sävargården",
+        "latitude": 63.8284646,
+        "longitude": 20.288738,
+        "following": true
+    },
+    {
+        "id": 3726,
+        "name": "Juiceverket Slussen",
+        "latitude": 59.318842,
+        "longitude": 18.074801,
+        "following": false
+    },
+    {
+        "id": 3331,
+        "name": "Nybrogatan 38",
+        "latitude": 59.337782,
+        "longitude": 18.079946,
+        "following": true
+    },
+    {
+        "id": 4851,
+        "name": "Lilla Kabul",
+        "latitude": 59.3176033,
+        "longitude": 18.0317105,
+        "following": false
+    },
+    {
+        "id": 4437,
+        "name": "Kaffebaren Ångström",
+        "latitude": 59.838975,
+        "longitude": 17.646845,
+        "following": true
+    },
+    {
+        "id": 3519,
+        "name": "The Temple Pub",
+        "latitude": 57.694633,
+        "longitude": 11.952655,
+        "following": true
+    },
+    {
+        "id": 5316,
+        "name": "Ja Thai Wok Flemingsberg",
+        "latitude": 59.217879,
+        "longitude": 17.94562,
+        "following": true
+    },
+    {
+        "id": 3982,
+        "name": "Motala Golf Restaurang",
+        "latitude": 58.508274,
+        "longitude": 15.042933,
+        "following": false
+    },
+    {
+        "id": 3690,
+        "name": "Finas Hembageri Avion",
+        "latitude": 63.805521,
+        "longitude": 20.25509,
+        "following": true
+    },
+    {
+        "id": 4607,
+        "name": "Maxi ICA Stormarknad Barkabystaden",
+        "latitude": 59.414353,
+        "longitude": 17.864048,
+        "following": false
+    },
+    {
+        "id": 3680,
+        "name": "En liten Smula",
+        "latitude": 59.753173,
+        "longitude": 18.569703,
+        "following": true
+    },
+    {
+        "id": 5087,
+        "name": "Adoro Cafe`",
+        "latitude": 59.8584042,
+        "longitude": 17.638357,
+        "following": false
+    },
+    {
+        "id": 4930,
+        "name": "Hemköp Vänersborg Sundsgatan",
+        "latitude": 58.379388,
+        "longitude": 12.323401,
+        "following": false
+    },
+    {
+        "id": 4061,
+        "name": "Tabes Kök",
+        "latitude": 59.224666,
+        "longitude": 18.135598,
+        "following": false
+    },
+    {
+        "id": 5364,
+        "name": "Hemköp Östersund Storsjön",
+        "latitude": 63.171205,
+        "longitude": 14.6569,
+        "following": false
+    },
+    {
+        "id": 3364,
+        "name": "Sabis Nordic Forum",
+        "latitude": 59.406221,
+        "longitude": 17.950603,
+        "following": true
+    },
+    {
+        "id": 5300,
+        "name": "Hemköp Göteborg Stigbergstorget",
+        "latitude": 57.698866,
+        "longitude": 11.934821,
+        "following": false
+    },
+    {
+        "id": 4485,
+        "name": "ICA Nära Björkö",
+        "latitude": 57.7332593,
+        "longitude": 11.677664,
+        "following": true
+    },
+    {
+        "id": 4387,
+        "name": "Kitchen & Table - Visby",
+        "latitude": 57.63875,
+        "longitude": 18.291077,
+        "following": true
+    },
+    {
+        "id": 3760,
+        "name": "Hemköp Stockholm Skanstull",
+        "latitude": 59.307115,
+        "longitude": 18.07625,
+        "following": false
+    },
+    {
+        "id": 4635,
+        "name": "Sofo Bageri & Konditori",
+        "latitude": 59.314254,
+        "longitude": 18.075656,
+        "following": true
+    },
+    {
+        "id": 5629,
+        "name": "Holy Greens - Kungsgatan",
+        "latitude": 59.335815,
+        "longitude": 18.0686707,
+        "following": false
+    },
+    {
+        "id": 3631,
+        "name": "Scandic Segevång",
+        "latitude": 55.617194,
+        "longitude": 13.063056,
+        "following": true
+    },
+    {
+        "id": 3808,
+        "name": "Triller Gottsunda Centrum",
+        "latitude": 59.810237,
+        "longitude": 17.630149,
+        "following": true
+    },
+    {
+        "id": 4560,
+        "name": "Go Lunch",
+        "latitude": 57.703421,
+        "longitude": 11.993871,
+        "following": true
+    },
+    {
+        "id": 4388,
+        "name": "Kitchen & Table - Luleå",
+        "latitude": 65.584926,
+        "longitude": 22.152506,
+        "following": true
+    },
+    {
+        "id": 3738,
+        "name": "Imo-Bo",
+        "latitude": 57.710305,
+        "longitude": 11.985827,
+        "following": true
+    },
+    {
+        "id": 5619,
+        "name": "Barista House",
+        "latitude": 59.361127,
+        "longitude": 17.832848,
+        "following": true
+    },
+    {
+        "id": 3891,
+        "name": "Ecoist",
+        "latitude": 59.338352,
+        "longitude": 18.081561,
+        "following": true
+    },
+    {
+        "id": 3516,
+        "name": "Gateau Sollentuna C",
+        "latitude": 59.427482,
+        "longitude": 17.951919,
+        "following": false
+    },
+    {
+        "id": 4294,
+        "name": "Fiesta Deli",
+        "latitude": 59.330409,
+        "longitude": 18.065294,
+        "following": true
+    },
+    {
+        "id": 4588,
+        "name": "Organico",
+        "latitude": 59.3180206,
+        "longitude": 18.0603724,
+        "following": true
+    },
+    {
+        "id": 5040,
+        "name": "Hotel Diplomat - Butiken",
+        "latitude": 59.332185,
+        "longitude": 18.080531,
+        "following": true
+    },
+    {
+        "id": 5565,
+        "name": "Blueberry Åhlens City",
+        "latitude": 59.3323261,
+        "longitude": 18.0616898,
+        "following": true
+    },
+    {
+        "id": 5015,
+        "name": "Sabis Passagen",
+        "latitude": 59.3351834,
+        "longitude": 18.0586751,
+        "following": true
+    },
+    {
+        "id": 3901,
+        "name": "Monastery St. Pub",
+        "latitude": 59.861414,
+        "longitude": 17.638525,
+        "following": false
+    },
+    {
+        "id": 3398,
+        "name": "Nääs Fabriker Hotell & Restaurang",
+        "latitude": 57.819936,
+        "longitude": 12.416807,
+        "following": false
+    },
+    {
+        "id": 3883,
+        "name": "The Green Bar",
+        "latitude": 57.720493,
+        "longitude": 12.939856,
+        "following": false
+    },
+    {
+        "id": 5116,
+        "name": "Restaurang cultum",
+        "latitude": 63.177128,
+        "longitude": 14.6490709,
+        "following": false
+    },
+    {
+        "id": 3955,
+        "name": "A’s Kitchen",
+        "latitude": 57.690482,
+        "longitude": 11.972074,
+        "following": true
+    },
+    {
+        "id": 3689,
+        "name": "Café Uroxen",
+        "latitude": 59.858532,
+        "longitude": 17.627428,
+        "following": false
+    },
+    {
+        "id": 5414,
+        "name": "Phil´s Burger Kungsholmen",
+        "latitude": 59.3335719,
+        "longitude": 18.0384848,
+        "following": false
+    },
+    {
+        "id": 5360,
+        "name": "Hemköp Tyresö Trollbäcken C",
+        "latitude": 59.223657,
+        "longitude": 18.201038,
+        "following": false
+    },
+    {
+        "id": 4442,
+        "name": "Scandic Elmia",
+        "latitude": 57.7875906,
+        "longitude": 14.2307227,
+        "following": true
+    },
+    {
+        "id": 4433,
+        "name": "Squeezed Up - Sankt Eriksgatan",
+        "latitude": 59.336578,
+        "longitude": 18.034591,
+        "following": false
+    },
+    {
+        "id": 3761,
+        "name": "Scandic Uppsala Nord",
+        "latitude": 59.875683,
+        "longitude": 17.640683,
+        "following": true
+    },
+    {
+        "id": 3899,
+        "name": "Mitt Café",
+        "latitude": 59.323864,
+        "longitude": 18.069436,
+        "following": false
+    },
+    {
+        "id": 4314,
+        "name": "Lanna Thai Bistro",
+        "latitude": 55.600114,
+        "longitude": 13.007873,
+        "following": false
+    },
+    {
+        "id": 3754,
+        "name": "Bröd och Vänner",
+        "latitude": 55.592326,
+        "longitude": 13.019002,
+        "following": true
+    },
+    {
+        "id": 5626,
+        "name": "ICA Supermarket ”Hjärtat” Kalix",
+        "latitude": 65.8545724,
+        "longitude": 23.1376873,
+        "following": false
+    },
+    {
+        "id": 3897,
+        "name": "Cederleüfs & Svenheimers - Kville Saluhall",
+        "latitude": 57.720982,
+        "longitude": 11.944659,
+        "following": true
+    },
+    {
+        "id": 3321,
+        "name": "Filmhuset Bar & Bistro",
+        "latitude": 59.339891,
+        "longitude": 18.103569,
+        "following": false
+    },
+    {
+        "id": 3869,
+        "name": "Bricks Eatery",
+        "latitude": 55.716819,
+        "longitude": 13.227267,
+        "following": true
+    },
+    {
+        "id": 3445,
+        "name": "Lisa Elmqvist Påväg",
+        "latitude": 59.335984,
+        "longitude": 18.079371,
+        "following": false
+    },
+    {
+        "id": 3887,
+        "name": "Larssons Bröd & Salladsbar",
+        "latitude": 55.601053,
+        "longitude": 13.006515,
+        "following": false
+    },
+    {
+        "id": 3746,
+        "name": "Kommendanthusets Kafe",
+        "latitude": 55.605387,
+        "longitude": 12.98544,
+        "following": true
+    },
+    {
+        "id": 3802,
+        "name": "Restaurang Kryddan",
+        "latitude": 60.656851,
+        "longitude": 17.171268,
+        "following": true
+    },
+    {
+        "id": 4202,
+        "name": "De Klomp",
+        "latitude": 58.413707,
+        "longitude": 15.623659,
+        "following": false
+    },
+    {
+        "id": 4525,
+        "name": "ICA Lappkärrsberget",
+        "latitude": 59.369658,
+        "longitude": 18.063199,
+        "following": true
+    },
+    {
+        "id": 4536,
+        "name": "Rimyas Café",
+        "latitude": 59.225444,
+        "longitude": 18.199716,
+        "following": true
+    },
+    {
+        "id": 4655,
+        "name": "Kungsgatan 1",
+        "latitude": 59.272194,
+        "longitude": 15.216356,
+        "following": false
+    },
+    {
+        "id": 3728,
+        "name": "Ensalada",
+        "latitude": 58.411672,
+        "longitude": 15.622981,
+        "following": true
+    },
+    {
+        "id": 3719,
+        "name": "Sally's på torget",
+        "latitude": 59.332479,
+        "longitude": 18.062352,
+        "following": false
+    },
+    {
+        "id": 4461,
+        "name": "Kosmos husmans & cafe",
+        "latitude": 67.8433649,
+        "longitude": 20.2620666,
+        "following": false
+    },
+    {
+        "id": 5631,
+        "name": "Amigo",
+        "latitude": 59.814946,
+        "longitude": 17.662518,
+        "following": true
+    },
+    {
+        "id": 4939,
+        "name": "Squeezed up - Spårvagnshallarna",
+        "latitude": 59.3412012,
+        "longitude": 18.0643437,
+        "following": false
+    },
+    {
+        "id": 5158,
+        "name": "ICA Odenhallen",
+        "latitude": 63.1558598,
+        "longitude": 14.6834431,
+        "following": true
+    },
+    {
+        "id": 5497,
+        "name": "Kosterhavets Ekobod",
+        "latitude": 58.8942277,
+        "longitude": 11.0066031,
+        "following": true
+    },
+    {
+        "id": 3927,
+        "name": "FreDa@Kockum Fritid",
+        "latitude": 55.608172,
+        "longitude": 12.977146,
+        "following": true
+    },
+    {
+        "id": 4026,
+        "name": "La Pasta Veloce Mall of Scandinavia",
+        "latitude": 59.371105,
+        "longitude": 18.002301,
+        "following": false
+    },
+    {
+        "id": 3605,
+        "name": "Scandic Plaza Borås",
+        "latitude": 57.72406,
+        "longitude": 12.939889,
+        "following": true
+    },
+    {
+        "id": 5029,
+        "name": "Restaurang Havsviken",
+        "latitude": 56.1732832579912,
+        "longitude": 15.5674702,
+        "following": false
+    },
+    {
+        "id": 5635,
+        "name": "Bongo Kök & Bar",
+        "latitude": 59.3385777,
+        "longitude": 18.0682117,
+        "following": true
+    },
+    {
+        "id": 5010,
+        "name": "ICA Supermarket Kungsholmstorg",
+        "latitude": 59.32848,
+        "longitude": 18.043327,
+        "following": true
+    },
+    {
+        "id": 3336,
+        "name": "Wayne's Coffee Centralstationen",
+        "latitude": 59.330541,
+        "longitude": 18.057163,
+        "following": true
+    },
+    {
+        "id": 4216,
+        "name": "Herr Ober",
+        "latitude": 57.506099,
+        "longitude": 12.697927,
+        "following": true
+    },
+    {
+        "id": 4063,
+        "name": "Bällstabro Värdshus",
+        "latitude": 59.362224,
+        "longitude": 17.964666,
+        "following": true
+    },
+    {
+        "id": 4129,
+        "name": "Scandic Gamla Stan",
+        "latitude": 59.323062,
+        "longitude": 18.069921,
+        "following": false
+    },
+    {
+        "id": 5534,
+        "name": "Miss Wargentin",
+        "latitude": 59.3328366,
+        "longitude": 18.0406948,
+        "following": false
+    },
+    {
+        "id": 3818,
+        "name": "Holy Greens - Regeringsgatan 28",
+        "latitude": 59.331699,
+        "longitude": 18.068826,
+        "following": false
+    },
+    {
+        "id": 4199,
+        "name": "Latteria",
+        "latitude": 57.705282,
+        "longitude": 11.963415,
+        "following": false
+    },
+    {
+        "id": 4167,
+        "name": "Café Två Bönor",
+        "latitude": 59.359461,
+        "longitude": 18.090184,
+        "following": true
+    },
+    {
+        "id": 3835,
+        "name": "Bönan och Roten",
+        "latitude": 59.482997,
+        "longitude": 18.303466,
+        "following": false
+    },
+    {
+        "id": 4166,
+        "name": "Reload Superfood Sergelgatan",
+        "latitude": 59.334014,
+        "longitude": 18.063167,
+        "following": false
+    },
+    {
+        "id": 5618,
+        "name": "Karolinska Institutet / Café Erik Jorpes",
+        "latitude": 59.3488696,
+        "longitude": 18.0273716,
+        "following": false
+    },
+    {
+        "id": 3857,
+        "name": "Shamiyat",
+        "latitude": 59.810135,
+        "longitude": 17.629924,
+        "following": false
+    },
+    {
+        "id": 5078,
+        "name": "TrueFood Lund",
+        "latitude": 55.7015711,
+        "longitude": 13.1947694,
+        "following": false
+    },
+    {
+        "id": 3900,
+        "name": "Angie & Morris",
+        "latitude": 59.354404,
+        "longitude": 18.087786,
+        "following": true
+    },
+    {
+        "id": 3435,
+        "name": "Muchacho",
+        "latitude": 57.6974,
+        "longitude": 11.962976,
+        "following": true
+    },
+    {
+        "id": 5299,
+        "name": "Hemköp Göteborg Selma Lagerlöf Torg",
+        "latitude": 57.749877,
+        "longitude": 11.982579,
+        "following": false
+    },
+    {
+        "id": 4737,
+        "name": "Kaffehörnan & Annat Gott i Vaxholm",
+        "latitude": 59.4031208,
+        "longitude": 18.3511836,
+        "following": false
+    },
+    {
+        "id": 5498,
+        "name": "Wayne's Coffee S:t Per Gallerian",
+        "latitude": 59.8600388002667,
+        "longitude": 17.6385059964044,
+        "following": true
+    },
+    {
+        "id": 3433,
+        "name": "Wayne's Coffee Akademibokhandeln",
+        "latitude": 57.70487,
+        "longitude": 11.969438,
+        "following": true
+    },
+    {
+        "id": 4432,
+        "name": "Tandoori & Pizza",
+        "latitude": 59.870283,
+        "longitude": 17.626865,
+        "following": true
+    },
+    {
+        "id": 5477,
+        "name": "Bakfickan",
+        "latitude": 55.5937402,
+        "longitude": 12.9839485,
+        "following": true
+    },
+    {
+        "id": 4636,
+        "name": "NR Street Kitchen- Universitet",
+        "latitude": 63.821557,
+        "longitude": 20.304654,
+        "following": false
+    },
+    {
+        "id": 4682,
+        "name": "Arctura Restaurang & Skybar",
+        "latitude": 63.1898003950022,
+        "longitude": 14.661683558197,
+        "following": true
+    },
+    {
+        "id": 3615,
+        "name": "Skafferiet",
+        "latitude": 56.663652,
+        "longitude": 16.361322,
+        "following": true
+    },
+    {
+        "id": 4675,
+        "name": "Bakery & Spice",
+        "latitude": 59.341349,
+        "longitude": 18.038207,
+        "following": true
+    },
+    {
+        "id": 4868,
+        "name": "The Strand Brasserie & Bar",
+        "latitude": 59.3308668,
+        "longitude": 18.0769452,
+        "following": false
+    },
+    {
+        "id": 5415,
+        "name": "Phil´s Burger Sundbyberg",
+        "latitude": 59.361581,
+        "longitude": 17.9674738,
+        "following": true
+    },
+    {
+        "id": 5424,
+        "name": "Holy Greens - Göteborg",
+        "latitude": 57.705858,
+        "longitude": 11.9714289,
+        "following": false
+    },
+    {
+        "id": 4024,
+        "name": "Scandwich",
+        "latitude": 55.589887,
+        "longitude": 13.008528,
+        "following": true
+    },
+    {
+        "id": 3533,
+        "name": "Harriets",
+        "latitude": 63.829537,
+        "longitude": 20.260178,
+        "following": false
+    },
+    {
+        "id": 5298,
+        "name": "Hemköp Göteborg Opaltorget",
+        "latitude": 57.642705,
+        "longitude": 11.899312,
+        "following": true
+    },
+    {
+        "id": 4098,
+        "name": "Chutney",
+        "latitude": 59.312081,
+        "longitude": 18.076393,
+        "following": false
+    },
+    {
+        "id": 3986,
+        "name": "Asian BBQ Bistro",
+        "latitude": 59.444003,
+        "longitude": 18.068914,
+        "following": false
+    },
+    {
+        "id": 4688,
+        "name": "Erssons Fruängen",
+        "latitude": 59.286076,
+        "longitude": 17.964283,
+        "following": true
+    },
+    {
+        "id": 5628,
+        "name": "Vegan House",
+        "latitude": 59.34047,
+        "longitude": 18.089938,
+        "following": false
+    },
+    {
+        "id": 3864,
+        "name": "Reload Superfood Solna",
+        "latitude": 59.354967,
+        "longitude": 17.973985,
+        "following": false
+    },
+    {
+        "id": 5341,
+        "name": "Primo Pranzo",
+        "latitude": 59.2801846,
+        "longitude": 18.0090907,
+        "following": true
+    },
+    {
+        "id": 4214,
+        "name": "Hattaviken restaurang",
+        "latitude": 57.1130864,
+        "longitude": 12.2260805,
+        "following": false
+    },
+    {
+        "id": 3434,
+        "name": "Swedish taste - Butik & Café",
+        "latitude": 57.70967,
+        "longitude": 11.965382,
+        "following": false
+    },
+    {
+        "id": 4084,
+        "name": "Restaurang Skyline",
+        "latitude": 58.407457,
+        "longitude": 15.657669,
+        "following": true
+    },
+    {
+        "id": 4021,
+        "name": "Lucullus",
+        "latitude": 59.861635,
+        "longitude": 17.645124,
+        "following": true
+    },
+    {
+        "id": 4540,
+        "name": "Sunes fik",
+        "latitude": 57.7149315,
+        "longitude": 12.0252391,
+        "following": false
+    },
+    {
+        "id": 4358,
+        "name": "Salads and Smoothies - Helsingborg",
+        "latitude": 56.045253,
+        "longitude": 12.694311,
+        "following": false
+    },
+    {
+        "id": 4233,
+        "name": "Squeezed Up - Stureplan",
+        "latitude": 59.334356,
+        "longitude": 18.075518,
+        "following": false
+    },
+    {
+        "id": 4922,
+        "name": "Babel Deli- Hornstull",
+        "latitude": 59.315771,
+        "longitude": 18.034252,
+        "following": false
+    },
+    {
+        "id": 5181,
+        "name": "Café Tingshuset",
+        "latitude": 63.1794927,
+        "longitude": 14.6393760999999,
+        "following": false
+    },
+    {
+        "id": 3502,
+        "name": "Kummin Catering & Restaurang",
+        "latitude": 63.832908,
+        "longitude": 20.242779,
+        "following": false
+    },
+    {
+        "id": 4497,
+        "name": "PONG - Kista",
+        "latitude": 59.402886,
+        "longitude": 17.943818,
+        "following": true
+    },
+    {
+        "id": 4573,
+        "name": "restaurang marcos",
+        "latitude": 57.7402554,
+        "longitude": 12.0870712,
+        "following": false
+    },
+    {
+        "id": 4876,
+        "name": "Raw for good",
+        "latitude": 63.8287541,
+        "longitude": 20.2599453,
+        "following": false
+    },
+    {
+        "id": 3914,
+        "name": "Evas Hembageri",
+        "latitude": 55.717264,
+        "longitude": 13.346108,
+        "following": false
+    },
+    {
+        "id": 3855,
+        "name": "ICA Nära Norrmalm",
+        "latitude": 58.397295,
+        "longitude": 13.847351,
+        "following": true
+    },
+    {
+        "id": 3825,
+        "name": "Scandic Kista",
+        "latitude": 59.4021443,
+        "longitude": 17.9482332,
+        "following": false
+    },
+    {
+        "id": 4617,
+        "name": "Njutbar",
+        "latitude": 55.603951,
+        "longitude": 13.005798,
+        "following": false
+    },
+    {
+        "id": 3807,
+        "name": "Kafé Kardemumma",
+        "latitude": 59.860541,
+        "longitude": 17.635656,
+        "following": true
+    },
+    {
+        "id": 4670,
+        "name": "Feskarbröderna Frölunda Torg ",
+        "latitude": 57.653145485011,
+        "longitude": 11.9136040312134,
+        "following": false
+    },
+    {
+        "id": 4975,
+        "name": "Coffe lab",
+        "latitude": 57.6439631,
+        "longitude": 12.0203933,
+        "following": false
+    },
+    {
+        "id": 3904,
+        "name": "Fridas Bakverk",
+        "latitude": 59.329516,
+        "longitude": 18.03896,
+        "following": false
+    },
+    {
+        "id": 4627,
+        "name": "Restaurang Sture",
+        "latitude": 57.79483,
+        "longitude": 13.412296,
+        "following": true
+    },
+    {
+        "id": 4745,
+        "name": "Copper Building Café",
+        "latitude": 59.3302378,
+        "longitude": 18.0617603000001,
+        "following": false
+    },
+    {
+        "id": 5332,
+        "name": "Hemköp Stockholm Jungfrugatan",
+        "latitude": 59.343064,
+        "longitude": 18.0863,
+        "following": true
+    },
+    {
+        "id": 3489,
+        "name": "The Barn",
+        "latitude": 57.704396,
+        "longitude": 11.962749,
+        "following": true
+    },
+    {
+        "id": 3892,
+        "name": "Restaurang Kina",
+        "latitude": 55.606976,
+        "longitude": 13.021158,
+        "following": true
+    },
+    {
+        "id": 3860,
+        "name": "Scandic Infra City",
+        "latitude": 59.49893,
+        "longitude": 17.927577,
+        "following": false
+    },
+    {
+        "id": 3759,
+        "name": "Scandic Uplandia",
+        "latitude": 59.860391,
+        "longitude": 17.638469,
+        "following": false
+    },
+    {
+        "id": 5604,
+        "name": "Pong Nybrogatan",
+        "latitude": 59.335022,
+        "longitude": 18.077785,
+        "following": true
+    },
+    {
+        "id": 3765,
+        "name": "D'abramo",
+        "latitude": 59.334395,
+        "longitude": 18.056105,
+        "following": false
+    },
+    {
+        "id": 4045,
+        "name": "Enoteca Maglia",
+        "latitude": 57.687489,
+        "longitude": 11.921502,
+        "following": false
+    },
+    {
+        "id": 4574,
+        "name": "Villgot Lokal & Mat",
+        "latitude": 65.57937,
+        "longitude": 22.132561,
+        "following": false
+    },
+    {
+        "id": 5693,
+        "name": "Sushi & Sånt",
+        "latitude": 57.7158112,
+        "longitude": 12.0529539,
+        "following": false
+    },
+    {
+        "id": 4089,
+        "name": "Storan",
+        "latitude": 58.41106,
+        "longitude": 15.622057,
+        "following": false
+    },
+    {
+        "id": 4707,
+        "name": "Café Nirvana",
+        "latitude": 59.3142662900064,
+        "longitude": 18.0848191134918,
+        "following": false
+    },
+    {
+        "id": 4754,
+        "name": "ICA Lansen",
+        "latitude": 59.308278,
+        "longitude": 18.081223,
+        "following": false
+    },
+    {
+        "id": 3709,
+        "name": "TomToms Burritos - Prinsgatan",
+        "latitude": 57.696339,
+        "longitude": 11.949067,
+        "following": false
+    },
+    {
+        "id": 4979,
+        "name": "Café Lotsutkiken",
+        "latitude": 56.6552252589627,
+        "longitude": 16.3665610174438,
+        "following": true
+    },
+    {
+        "id": 4920,
+        "name": "Åtellet",
+        "latitude": 59.757987,
+        "longitude": 18.7073104999999,
+        "following": false
+    },
+    {
+        "id": 3716,
+        "name": "Norda Bar & Grill",
+        "latitude": 57.708212,
+        "longitude": 11.974553,
+        "following": false
+    },
+    {
+        "id": 4493,
+        "name": "PONG - Skärholmen",
+        "latitude": 59.274654,
+        "longitude": 17.907563,
+        "following": false
+    },
+    {
+        "id": 4921,
+        "name": "Babel Deli - Vasastan",
+        "latitude": 59.341661,
+        "longitude": 18.059084,
+        "following": true
+    },
+    {
+        "id": 4807,
+        "name": "Hemköp Göteborg Masthuggstorget",
+        "latitude": 57.698559,
+        "longitude": 11.943223,
+        "following": false
+    },
+    {
+        "id": 4008,
+        "name": "Frippes",
+        "latitude": 59.333738,
+        "longitude": 18.076761,
+        "following": true
+    },
+    {
+        "id": 4813,
+        "name": "Hemköp Bollebygd Stationsvägen",
+        "latitude": 57.66794,
+        "longitude": 12.569565,
+        "following": false
+    },
+    {
+        "id": 3758,
+        "name": "Broströms Kafé",
+        "latitude": 59.85959,
+        "longitude": 17.64622,
+        "following": false
+    },
+    {
+        "id": 3493,
+        "name": "Café Asplundhuset Stadsbiblioteket",
+        "latitude": 59.343539,
+        "longitude": 18.055606,
+        "following": true
+    },
+    {
+        "id": 4970,
+        "name": "Togogo Nordstan",
+        "latitude": 57.708822,
+        "longitude": 11.968023,
+        "following": false
+    },
+    {
+        "id": 4191,
+        "name": "Sachi Sushi - Östra Förstadsgatan",
+        "latitude": 55.60703,
+        "longitude": 13.018354,
+        "following": false
+    },
+    {
+        "id": 3918,
+        "name": "Scandic Foresta",
+        "latitude": 59.359927,
+        "longitude": 18.120489,
+        "following": false
+    },
+    {
+        "id": 4153,
+        "name": "De 3 Bönorna & Hunden",
+        "latitude": 59.348773,
+        "longitude": 18.048247,
+        "following": false
+    },
+    {
+        "id": 3970,
+        "name": "Ciao Ciao Grande",
+        "latitude": 59.335605,
+        "longitude": 18.081842,
+        "following": false
+    },
+    {
+        "id": 3633,
+        "name": "Scandic Kalmar Väst",
+        "latitude": 56.673631,
+        "longitude": 16.319255,
+        "following": true
+    },
+    {
+        "id": 5482,
+        "name": "Jensens Bøfhus - Vasagatan",
+        "latitude": 59.3311583,
+        "longitude": 18.0597756,
+        "following": false
+    },
+    {
+        "id": 4147,
+        "name": "Scandic Gävle Väst",
+        "latitude": 60.671162,
+        "longitude": 17.0875,
+        "following": true
+    },
+    {
+        "id": 4293,
+        "name": "BAKA stenugnsbageri - Ostindiefararen 27",
+        "latitude": 57.699254,
+        "longitude": 11.909634,
+        "following": false
+    },
+    {
+        "id": 5260,
+        "name": "7-Eleven Rörstrandsgatan 10",
+        "latitude": 59.3400708,
+        "longitude": 18.0343092,
+        "following": false
+    },
+    {
+        "id": 5002,
+        "name": "Herr",
+        "latitude": 57.678865,
+        "longitude": 13.3751008,
+        "following": true
+    },
+    {
+        "id": 4510,
+        "name": "ICA Maxi Alingsås",
+        "latitude": 57.924746,
+        "longitude": 12.543944,
+        "following": false
+    },
+    {
+        "id": 3652,
+        "name": "Tandoori Kitchen Kungsgatan 25",
+        "latitude": 57.703914,
+        "longitude": 11.963333,
+        "following": false
+    },
+    {
+        "id": 4154,
+        "name": "B.A.R",
+        "latitude": 55.598827,
+        "longitude": 12.997861,
+        "following": true
+    },
+    {
+        "id": 3399,
+        "name": "Kafé Nääs Fabriker",
+        "latitude": 57.819525,
+        "longitude": 12.417722,
+        "following": false
+    },
+    {
+        "id": 4124,
+        "name": "Scandic Malmen",
+        "latitude": 59.3145829,
+        "longitude": 18.0737515,
+        "following": true
+    },
+    {
+        "id": 5175,
+        "name": "Jensens Bøfhus - Malmö City",
+        "latitude": 55.6007234,
+        "longitude": 13.0008218,
+        "following": true
+    },
+    {
+        "id": 4816,
+        "name": "Hemköp Eskilstuna C",
+        "latitude": 59.370544,
+        "longitude": 16.516747,
+        "following": true
+    },
+    {
+        "id": 4251,
+        "name": "Börje Olsson",
+        "latitude": 65.584089,
+        "longitude": 22.152824,
+        "following": true
+    },
+    {
+        "id": 3441,
+        "name": "Landars Kök & Bar",
+        "latitude": 59.649052,
+        "longitude": 17.085353,
+        "following": false
+    },
+    {
+        "id": 3854,
+        "name": "Potala",
+        "latitude": 55.607081,
+        "longitude": 13.061376,
+        "following": true
+    },
+    {
+        "id": 3465,
+        "name": "Le Croissant Mall of Scandinavia",
+        "latitude": 59.371038,
+        "longitude": 18.002178,
+        "following": false
+    },
+    {
+        "id": 3540,
+        "name": "39Wäst",
+        "latitude": 59.333278,
+        "longitude": 18.040727,
+        "following": false
+    },
+    {
+        "id": 3621,
+        "name": "Scandic Västerås",
+        "latitude": 59.6148924517142,
+        "longitude": 16.5690480504498,
+        "following": false
+    },
+    {
+        "id": 3312,
+        "name": "Vassa Eggen",
+        "latitude": 59.337514,
+        "longitude": 18.069736,
+        "following": false
+    },
+    {
+        "id": 3330,
+        "name": "Österlånggatan 17",
+        "latitude": 59.325138,
+        "longitude": 18.073998,
+        "following": false
+    },
+    {
+        "id": 4095,
+        "name": "Restaurang Yogi - Hämtning av mat sker 17:00-18:00",
+        "latitude": 58.411971,
+        "longitude": 15.620707,
+        "following": true
+    },
+    {
+        "id": 5706,
+        "name": "Happy M Kitchen Vasagatan ",
+        "latitude": 57.6984211,
+        "longitude": 11.9668517,
+        "following": true
+    },
+    {
+        "id": 5503,
+        "name": "Samba Sushi",
+        "latitude": 59.3177623,
+        "longitude": 18.0714044,
+        "following": false
+    },
+    {
+        "id": 3733,
+        "name": "Govindas Vegetariska Restaurang",
+        "latitude": 59.336575,
+        "longitude": 18.060228,
+        "following": true
+    },
+    {
+        "id": 3915,
+        "name": "JuiceBaren Leksand",
+        "latitude": 60.729984,
+        "longitude": 14.998185,
+        "following": true
+    },
+    {
+        "id": 5735,
+        "name": "Visionen",
+        "latitude": 57.716842,
+        "longitude": 12.8928848,
+        "following": true
+    },
+    {
+        "id": 4894,
+        "name": "Via Napoli",
+        "latitude": 55.6017857,
+        "longitude": 12.9747110000001,
+        "following": true
+    },
+    {
+        "id": 3612,
+        "name": "MVG E-Puben",
+        "latitude": 63.820058,
+        "longitude": 20.305751,
+        "following": false
+    },
+    {
+        "id": 3722,
+        "name": "Sushibaren",
+        "latitude": 55.598863,
+        "longitude": 12.977863,
+        "following": false
+    },
+    {
+        "id": 5011,
+        "name": "Palatset",
+        "latitude": 58.4090178,
+        "longitude": 15.6259811,
+        "following": true
+    },
+    {
+        "id": 5582,
+        "name": "Campus café",
+        "latitude": 58.5058086942495,
+        "longitude": 13.1594593523926,
+        "following": false
+    },
+    {
+        "id": 4874,
+        "name": "Sutai sushi",
+        "latitude": 59.3596905,
+        "longitude": 17.9573837,
+        "following": false
+    },
+    {
+        "id": 3902,
+        "name": "Scandic Talk",
+        "latitude": 59.276997,
+        "longitude": 18.01541,
+        "following": false
+    },
+    {
+        "id": 4441,
+        "name": "Primo Ciao Ciao Liljeholmen",
+        "latitude": 59.308297,
+        "longitude": 18.0295376,
+        "following": true
+    },
+    {
+        "id": 3737,
+        "name": "Spice Factory",
+        "latitude": 57.733022,
+        "longitude": 12.079408,
+        "following": true
+    },
+    {
+        "id": 3462,
+        "name": "Le Croissant Sollentuna Centrum",
+        "latitude": 59.427997,
+        "longitude": 17.951069,
+        "following": false
+    },
+    {
+        "id": 3580,
+        "name": "Cottino's Skafferi",
+        "latitude": 59.347466,
+        "longitude": 17.894034,
+        "following": false
+    },
+    {
+        "id": 4465,
+        "name": "Café Foajé",
+        "latitude": 57.639374,
+        "longitude": 18.2892876,
+        "following": true
+    },
+    {
+        "id": 4821,
+        "name": "Hemköp Särö C",
+        "latitude": 57.520479,
+        "longitude": 11.9664,
+        "following": false
+    },
+    {
+        "id": 4011,
+        "name": "Göteborgs Gokartcenter",
+        "latitude": 57.720422,
+        "longitude": 11.813735,
+        "following": true
+    },
+    {
+        "id": 4825,
+        "name": "Hemköp Stockholm Östermalmstorg",
+        "latitude": 59.336343,
+        "longitude": 18.078441,
+        "following": false
+    },
+    {
+        "id": 5575,
+        "name": "Bee Kök & Bar",
+        "latitude": 55.5974507,
+        "longitude": 13.0016095,
+        "following": true
+    },
+    {
+        "id": 4207,
+        "name": "Spanjorskan",
+        "latitude": 59.338256,
+        "longitude": 18.080324,
+        "following": false
+    },
+    {
+        "id": 5312,
+        "name": "Uddevalla Turistcenter",
+        "latitude": 58.3484211,
+        "longitude": 11.9298841,
+        "following": false
+    },
+    {
+        "id": 5524,
+        "name": "360 Minimarket",
+        "latitude": 57.4285353,
+        "longitude": 14.0911244,
+        "following": true
+    },
+    {
+        "id": 3756,
+        "name": "Scandic Lugnet Falun",
+        "latitude": 60.613062,
+        "longitude": 15.65553,
+        "following": true
+    },
+    {
+        "id": 3421,
+        "name": "Tennstopet",
+        "latitude": 59.341825,
+        "longitude": 18.045629,
+        "following": true
+    },
+    {
+        "id": 3469,
+        "name": "Afamia Restaurang",
+        "latitude": 57.688783,
+        "longitude": 11.967427,
+        "following": true
+    },
+    {
+        "id": 4169,
+        "name": "Lidingö Saluhall",
+        "latitude": 59.344479,
+        "longitude": 18.169064,
+        "following": true
+    },
+    {
+        "id": 4853,
+        "name": "Cashew vegan kitchen",
+        "latitude": 55.705908,
+        "longitude": 13.1924129,
+        "following": true
+    },
+    {
+        "id": 4905,
+        "name": "Lunchesset Haléns",
+        "latitude": 57.7274781053966,
+        "longitude": 12.9200034104507,
+        "following": false
+    },
+    {
+        "id": 3975,
+        "name": "Scandic Södertälje",
+        "latitude": 59.174381,
+        "longitude": 17.64412,
+        "following": false
+    },
+    {
+        "id": 5301,
+        "name": "Hemköp Haninge C",
+        "latitude": 59.168931,
+        "longitude": 18.1397,
+        "following": false
+    },
+    {
+        "id": 3309,
+        "name": "Mealprep",
+        "latitude": 59.3361,
+        "longitude": 18.062032,
+        "following": false
+    },
+    {
+        "id": 3910,
+        "name": "MS Teaterskeppet",
+        "latitude": 59.325504,
+        "longitude": 18.076276,
+        "following": false
+    },
+    {
+        "id": 3532,
+        "name": "Corona",
+        "latitude": 63.819875,
+        "longitude": 20.305892,
+        "following": true
+    },
+    {
+        "id": 4086,
+        "name": "The Loco",
+        "latitude": 59.858533,
+        "longitude": 17.641163,
+        "following": true
+    },
+    {
+        "id": 3695,
+        "name": "Phở & Bún Gamla Stan",
+        "latitude": 59.322945,
+        "longitude": 18.071519,
+        "following": true
+    },
+    {
+        "id": 4684,
+        "name": "Storsjöteatern",
+        "latitude": 63.1798085,
+        "longitude": 14.6355847,
+        "following": true
+    },
+    {
+        "id": 4139,
+        "name": "Scandic Billingen",
+        "latitude": 58.3898158,
+        "longitude": 13.8498611,
+        "following": false
+    },
+    {
+        "id": 4201,
+        "name": "Fröjas Sal",
+        "latitude": 59.856811,
+        "longitude": 17.646642,
+        "following": true
+    },
+    {
+        "id": 4866,
+        "name": "Taco Bar Järfälla",
+        "latitude": 59.411949,
+        "longitude": 17.803104,
+        "following": false
+    },
+    {
+        "id": 3478,
+        "name": "Cederleüfs & Svenheimers - Gamlestan",
+        "latitude": 57.730474,
+        "longitude": 12.012751,
+        "following": true
+    },
+    {
+        "id": 3338,
+        "name": "Wayne's Coffee Götgatan 31",
+        "latitude": 59.316671,
+        "longitude": 18.072178,
+        "following": true
+    },
+    {
+        "id": 5411,
+        "name": "Scandic Värnamo",
+        "latitude": 57.184986,
+        "longitude": 14.04066,
+        "following": false
+    },
+    {
+        "id": 5668,
+        "name": "Sannas naturliga",
+        "latitude": 57.7095146,
+        "longitude": 11.965155,
+        "following": true
+    },
+    {
+        "id": 4551,
+        "name": "Jannes Hembageri",
+        "latitude": 58.4806214,
+        "longitude": 16.3226626000001,
+        "following": false
+    },
+    {
+        "id": 4200,
+        "name": "Stenungsbaden Yacht Club",
+        "latitude": 58.064252,
+        "longitude": 11.807878,
+        "following": true
+    },
+    {
+        "id": 4270,
+        "name": "Matbutiken SU",
+        "latitude": 59.362461,
+        "longitude": 18.060055,
+        "following": false
+    },
+    {
+        "id": 3896,
+        "name": "Bella Vista",
+        "latitude": 59.336001,
+        "longitude": 18.031884,
+        "following": true
+    },
+    {
+        "id": 5236,
+        "name": "Ica Nära Finnboda",
+        "latitude": 59.3150619099141,
+        "longitude": 18.1243413645568,
+        "following": true
+    },
+    {
+        "id": 4999,
+        "name": "Café Loungen",
+        "latitude": 58.452597,
+        "longitude": 13.964793,
+        "following": false
+    },
+    {
+        "id": 3323,
+        "name": "Sabis Solna Gate",
+        "latitude": 59.354683,
+        "longitude": 17.977683,
+        "following": true
+    },
+    {
+        "id": 4552,
+        "name": "Restaurang Hubben",
+        "latitude": 59.843326653022,
+        "longitude": 17.6415348478852,
+        "following": true
+    },
+    {
+        "id": 4310,
+        "name": "Hjortviken Konferens",
+        "latitude": 57.706631,
+        "longitude": 12.466391,
+        "following": true
+    },
+    {
+        "id": 4067,
+        "name": "Café String",
+        "latitude": 59.313341,
+        "longitude": 18.082075,
+        "following": true
+    },
+    {
+        "id": 3316,
+        "name": "Crème Gärdet",
+        "latitude": 59.343,
+        "longitude": 18.110951,
+        "following": false
+    },
+    {
+        "id": 4833,
+        "name": "Hemköp Leksand C",
+        "latitude": 60.733224,
+        "longitude": 14.997563,
+        "following": true
+    },
+    {
+        "id": 4386,
+        "name": "Kitchen & Table - Malmö",
+        "latitude": 55.607787,
+        "longitude": 12.994171,
+        "following": false
+    },
+    {
+        "id": 5429,
+        "name": "Espresso House Huddinge Sjukhus",
+        "latitude": 59.2213067,
+        "longitude": 17.9378728,
+        "following": true
+    },
+    {
+        "id": 3843,
+        "name": "Gateau Limhamn",
+        "latitude": 55.583917,
+        "longitude": 12.931737,
+        "following": false
+    },
+    {
+        "id": 4250,
+        "name": "Kappa Bar",
+        "latitude": 57.699182,
+        "longitude": 11.964821,
+        "following": true
+    },
+    {
+        "id": 4132,
+        "name": "Scandic Star Sollentuna",
+        "latitude": 59.4264713159936,
+        "longitude": 17.951477766037,
+        "following": true
+    },
+    {
+        "id": 4296,
+        "name": "Juicekällan",
+        "latitude": 57.704422,
+        "longitude": 11.962895,
+        "following": false
+    },
+    {
+        "id": 5704,
+        "name": "Lilla Prag Stockholm",
+        "latitude": 59.3460301,
+        "longitude": 18.0522779,
+        "following": false
+    },
+    {
+        "id": 3700,
+        "name": "Ahaan Thai",
+        "latitude": 59.863258,
+        "longitude": 17.656532,
+        "following": false
+    },
+    {
+        "id": 5168,
+        "name": "eggs inc.",
+        "latitude": 59.3433642,
+        "longitude": 18.0519836,
+        "following": true
+    },
+    {
+        "id": 5230,
+        "name": "LG30 bar & matsal",
+        "latitude": 59.3654624,
+        "longitude": 18.003977,
+        "following": false
+    },
+    {
+        "id": 4260,
+        "name": "Restaurang Chowkeeng",
+        "latitude": 65.581816,
+        "longitude": 22.143681,
+        "following": true
+    },
+    {
+        "id": 4640,
+        "name": "Gast",
+        "latitude": 59.339746,
+        "longitude": 18.05666,
+        "following": false
+    },
+    {
+        "id": 5462,
+        "name": "ICA Nära Hjärtat",
+        "latitude": 57.6980608,
+        "longitude": 13.0266524,
+        "following": true
+    },
+    {
+        "id": 5022,
+        "name": "Direkten Citykiosken",
+        "latitude": 58.389996,
+        "longitude": 13.8449994,
+        "following": true
+    },
+    {
+        "id": 3624,
+        "name": "Beirut Café Deli - Centralstationen",
+        "latitude": 59.330318,
+        "longitude": 18.058262,
+        "following": false
+    },
+    {
+        "id": 4238,
+        "name": "Green Kiss Café",
+        "latitude": 55.59568,
+        "longitude": 13.000379,
+        "following": false
+    },
+    {
+        "id": 3685,
+        "name": "Slottsträdgårdens kafé",
+        "latitude": 55.603756,
+        "longitude": 12.989208,
+        "following": true
+    },
+    {
+        "id": 3708,
+        "name": "TomToms Burritos - Odinsplatsen",
+        "latitude": 57.709422,
+        "longitude": 11.985555,
+        "following": true
+    },
+    {
+        "id": 4178,
+        "name": "Nem Nem Quan",
+        "latitude": 59.312198,
+        "longitude": 18.069137,
+        "following": true
+    },
+    {
+        "id": 3488,
+        "name": "Restaurang Matmagasinet",
+        "latitude": 59.445391,
+        "longitude": 17.923741,
+        "following": true
+    },
+    {
+        "id": 3577,
+        "name": "Scandic Ariadne",
+        "latitude": 59.34884,
+        "longitude": 18.113336,
+        "following": false
+    },
+    {
+        "id": 5584,
+        "name": "Maxi ICA Stormarknad Solna",
+        "latitude": 59.358415,
+        "longitude": 17.9800408,
+        "following": false
+    },
+    {
+        "id": 3544,
+        "name": "Ristorante da vinci",
+        "latitude": 58.417009,
+        "longitude": 15.621999,
+        "following": true
+    },
+    {
+        "id": 4808,
+        "name": "Hemköp Danderyd Mörby C",
+        "latitude": 59.397947,
+        "longitude": 18.036759,
+        "following": true
+    },
+    {
+        "id": 4378,
+        "name": "Bistro Bryggeriet - Octapharma",
+        "latitude": 59.338057,
+        "longitude": 18.004096,
+        "following": false
+    },
+    {
+        "id": 4359,
+        "name": "Salads and Smoothies - Oskarshamn",
+        "latitude": 57.266872,
+        "longitude": 16.444489,
+        "following": false
+    },
+    {
+        "id": 3932,
+        "name": "Astra Zeneca - Kiosk Oazen",
+        "latitude": 59.178593,
+        "longitude": 17.677224,
+        "following": true
+    },
+    {
+        "id": 5716,
+        "name": "Restaurang Vallen",
+        "latitude": 55.9992308,
+        "longitude": 12.7367913,
+        "following": false
+    },
+    {
+        "id": 4107,
+        "name": "Holy Greens - Malmö Saluhall",
+        "latitude": 55.607938,
+        "longitude": 12.99088,
+        "following": true
+    },
+    {
+        "id": 4056,
+        "name": "Restaurang Niagara",
+        "latitude": 55.608994,
+        "longitude": 12.994381,
+        "following": true
+    },
+    {
+        "id": 4158,
+        "name": "The Wine & Coffee Company",
+        "latitude": 57.724973,
+        "longitude": 12.938026,
+        "following": false
+    },
+    {
+        "id": 5146,
+        "name": "Sushirullen Globen",
+        "latitude": 59.293243,
+        "longitude": 18.080746,
+        "following": false
+    },
+    {
+        "id": 3359,
+        "name": "Löfbergs Stockholm",
+        "latitude": 59.336055,
+        "longitude": 18.071326,
+        "following": false
+    },
+    {
+        "id": 5171,
+        "name": "The Broker Coffee Roastery & Coffee Bar",
+        "latitude": 59.8138935,
+        "longitude": 17.6586308999999,
+        "following": true
+    },
+    {
+        "id": 3303,
+        "name": "Café Foam",
+        "latitude": 59.339147,
+        "longitude": 18.083869,
+        "following": false
+    },
+    {
+        "id": 3416,
+        "name": "Vete-Katten Åhléns",
+        "latitude": 59.332069,
+        "longitude": 18.06118,
+        "following": true
+    },
+    {
+        "id": 4805,
+        "name": "Hemköp Herrljunga C",
+        "latitude": 58.077779,
+        "longitude": 13.021118,
+        "following": false
+    },
+    {
+        "id": 3630,
+        "name": "Scandic Triangeln",
+        "latitude": 55.5964845,
+        "longitude": 13.0015222,
+        "following": false
+    },
+    {
+        "id": 3527,
+        "name": "Sjöporten Restaurang",
+        "latitude": 57.701241,
+        "longitude": 11.915088,
+        "following": true
+    },
+    {
+        "id": 4113,
+        "name": "Scandic CH",
+        "latitude": 60.677054,
+        "longitude": 17.148553,
+        "following": false
+    },
+    {
+        "id": 4180,
+        "name": "Pizzeria Helan & Halvan",
+        "latitude": 58.407798,
+        "longitude": 15.589945,
+        "following": true
+    },
+    {
+        "id": 4048,
+        "name": "Holy Greens - Baltzarsgatan 26",
+        "latitude": 55.604593,
+        "longitude": 13.0025,
+        "following": false
+    },
+    {
+        "id": 4572,
+        "name": "Baggen visby",
+        "latitude": 57.6348,
+        "longitude": 18.29484,
+        "following": false
+    },
+    {
+        "id": 4484,
+        "name": "Mötesplats CRC",
+        "latitude": 55.5874291,
+        "longitude": 13.0020347,
+        "following": false
+    },
+    {
+        "id": 5030,
+        "name": "Mahalo Odengatan",
+        "latitude": 59.345573,
+        "longitude": 18.061154,
+        "following": true
+    },
+    {
+        "id": 3935,
+        "name": "Astra Zeneca - Café Mikronomen",
+        "latitude": 59.202099,
+        "longitude": 17.621273,
+        "following": true
+    },
+    {
+        "id": 5705,
+        "name": "Lilla Coop Flöjtvägen",
+        "latitude": 55.7108664,
+        "longitude": 13.2328394,
+        "following": true
+    },
+    {
+        "id": 4824,
+        "name": "Hemköp Uppsala Västertorg",
+        "latitude": 59.8410704124109,
+        "longitude": 17.6020795171967,
+        "following": false
+    },
+    {
+        "id": 4068,
+        "name": "Hotel Flora",
+        "latitude": 57.702977,
+        "longitude": 11.965579,
+        "following": false
+    },
+    {
+        "id": 3841,
+        "name": "Gateau Västra Hamnen",
+        "latitude": 55.609854,
+        "longitude": 12.978988,
+        "following": true
+    },
+    {
+        "id": 4271,
+        "name": "Prego Kräftriket",
+        "latitude": 59.357476,
+        "longitude": 18.053042,
+        "following": false
+    },
+    {
+        "id": 3851,
+        "name": "Gateau Frölunda Torg",
+        "latitude": 57.652393,
+        "longitude": 11.912868,
+        "following": false
+    },
+    {
+        "id": 4822,
+        "name": "Laserdome Pub & Restaurang",
+        "latitude": 58.3904416,
+        "longitude": 13.8450116,
+        "following": false
+    },
+    {
+        "id": 4096,
+        "name": "Göteborgs nation",
+        "latitude": 59.859448,
+        "longitude": 17.630182,
+        "following": false
+    },
+    {
+        "id": 3602,
+        "name": "Scandic Plaza",
+        "latitude": 63.825363,
+        "longitude": 20.258446,
+        "following": true
+    },
+    {
+        "id": 4304,
+        "name": "Welli",
+        "latitude": 59.3556707,
+        "longitude": 18.2196777,
+        "following": true
+    },
+    {
+        "id": 4344,
+        "name": "Delselius Café Tornhuset",
+        "latitude": 59.324285,
+        "longitude": 18.381937,
+        "following": false
+    },
+    {
+        "id": 3608,
+        "name": "Café Wickholm & P",
+        "latitude": 59.349218,
+        "longitude": 18.044381,
+        "following": false
+    },
+    {
+        "id": 5366,
+        "name": "NR Street Kitchen - Formvägen",
+        "latitude": 63.8511917,
+        "longitude": 20.310993,
+        "following": true
+    },
+    {
+        "id": 3425,
+        "name": "Thelins Konditori Kungsbron",
+        "latitude": 59.333434,
+        "longitude": 18.054531,
+        "following": true
+    },
+    {
+        "id": 3341,
+        "name": "Bröd & Salt SOFO",
+        "latitude": 59.314533,
+        "longitude": 18.084426,
+        "following": false
+    },
+    {
+        "id": 3739,
+        "name": "Scandic Hasselbacken",
+        "latitude": 59.325758,
+        "longitude": 18.099139,
+        "following": false
+    },
+    {
+        "id": 3647,
+        "name": "Scandic Karlskrona",
+        "latitude": 56.162012,
+        "longitude": 15.578369,
+        "following": false
+    },
+    {
+        "id": 5147,
+        "name": "Feskarn i Gottsunda",
+        "latitude": 59.8100854,
+        "longitude": 17.6298957,
+        "following": false
+    },
+    {
+        "id": 5453,
+        "name": "Sushirullen Västerås",
+        "latitude": 59.6115644,
+        "longitude": 16.5452261,
+        "following": true
+    },
+    {
+        "id": 3672,
+        "name": "Vejos Café & Bageri",
+        "latitude": 63.844084,
+        "longitude": 20.233054,
+        "following": true
+    },
+    {
+        "id": 3639,
+        "name": "Scandic Rubinen",
+        "latitude": 57.699709,
+        "longitude": 11.976065,
+        "following": true
+    },
+    {
+        "id": 4177,
+        "name": "Redfellas Solna",
+        "latitude": 59.35928,
+        "longitude": 18.000422,
+        "following": true
+    },
+    {
+        "id": 4239,
+        "name": "Sushirullen Sergels Torg",
+        "latitude": 59.331123,
+        "longitude": 18.067275,
+        "following": false
+    },
+    {
+        "id": 5601,
+        "name": "Materiet",
+        "latitude": 59.3107846,
+        "longitude": 18.0578622,
+        "following": false
+    },
+    {
+        "id": 3485,
+        "name": "Tiger Deli",
+        "latitude": 57.703429,
+        "longitude": 11.991793,
+        "following": false
+    },
+    {
+        "id": 4427,
+        "name": "Hotel Birger Jarl",
+        "latitude": 59.3424,
+        "longitude": 18.062409,
+        "following": true
+    },
+    {
+        "id": 4345,
+        "name": "Deli Verkstan",
+        "latitude": 59.324404,
+        "longitude": 18.384244,
+        "following": false
+    },
+    {
+        "id": 3442,
+        "name": "Restaurang Ljunggren",
+        "latitude": 59.317102,
+        "longitude": 18.071742,
+        "following": false
+    },
+    {
+        "id": 5019,
+        "name": "Green Queen",
+        "latitude": 55.590689,
+        "longitude": 13.016137,
+        "following": false
+    },
+    {
+        "id": 3801,
+        "name": "Pappa Grappa",
+        "latitude": 58.409299,
+        "longitude": 15.622391,
+        "following": false
+    },
+    {
+        "id": 3740,
+        "name": "The Masala Box",
+        "latitude": 55.589813,
+        "longitude": 13.009121,
+        "following": true
+    },
+    {
+        "id": 3717,
+        "name": "Hemköp Sabis Fältöversten",
+        "latitude": 59.339516,
+        "longitude": 18.092634,
+        "following": false
+    },
+    {
+        "id": 3670,
+        "name": "Café Prego Origo",
+        "latitude": 59.617589,
+        "longitude": 16.541728,
+        "following": true
+    },
+    {
+        "id": 5659,
+        "name": "Paradis De Liban",
+        "latitude": 58.5874106,
+        "longitude": 16.1769489000001,
+        "following": false
+    },
+    {
+        "id": 4470,
+        "name": "Waipo",
+        "latitude": 59.330443,
+        "longitude": 18.064528,
+        "following": false
+    },
+    {
+        "id": 4705,
+        "name": "Ryttarbaren Indisk Restaurang",
+        "latitude": 59.3512721,
+        "longitude": 18.0856921,
+        "following": true
+    },
+    {
+        "id": 3497,
+        "name": "Banérbageriet",
+        "latitude": 59.336134,
+        "longitude": 18.093846,
+        "following": false
+    },
+    {
+        "id": 3727,
+        "name": "Akvariet",
+        "latitude": 55.61434,
+        "longitude": 12.98961,
+        "following": true
+    },
+    {
+        "id": 5566,
+        "name": "Blueberry Fältöversten",
+        "latitude": 59.3391224,
+        "longitude": 18.0909832,
+        "following": true
+    },
+    {
+        "id": 5044,
+        "name": "Juniper Tree",
+        "latitude": 59.3667133,
+        "longitude": 17.9871885,
+        "following": true
+    },
+    {
+        "id": 3963,
+        "name": "Beirut Mezze",
+        "latitude": 57.698247,
+        "longitude": 11.974695,
+        "following": true
+    },
+    {
+        "id": 3567,
+        "name": "Rex Rådhuspassagen",
+        "latitude": 63.825294,
+        "longitude": 20.262779,
+        "following": true
+    },
+    {
+        "id": 3314,
+        "name": "Bröd & Salt MOOD",
+        "latitude": 59.334373,
+        "longitude": 18.068151,
+        "following": true
+    },
+    {
+        "id": 3648,
+        "name": "Scandic Helsingborg Nord",
+        "latitude": 56.077743,
+        "longitude": 12.729295,
+        "following": true
+    },
+    {
+        "id": 4382,
+        "name": "Scandic Skärholmen",
+        "latitude": 59.273183,
+        "longitude": 17.908622,
+        "following": true
+    },
+    {
+        "id": 4545,
+        "name": "Acai & Sånt",
+        "latitude": 55.6128596,
+        "longitude": 12.9746083,
+        "following": false
+    },
+    {
+        "id": 3481,
+        "name": "Down The Rabbit Hole",
+        "latitude": 57.697601,
+        "longitude": 11.966011,
+        "following": false
+    },
+    {
+        "id": 3809,
+        "name": "Yummybox",
+        "latitude": 56.878252,
+        "longitude": 14.805979,
+        "following": false
+    },
+    {
+        "id": 5231,
+        "name": "Tempo Bottnaryd",
+        "latitude": 59.235774,
+        "longitude": 18.196713,
+        "following": false
+    },
+    {
+        "id": 3365,
+        "name": "Gateau Sturegallerian",
+        "latitude": 59.33613,
+        "longitude": 18.073968,
+        "following": true
+    },
+    {
+        "id": 5205,
+        "name": "Chicha08",
+        "latitude": 59.3084021,
+        "longitude": 18.0662221,
+        "following": false
+    },
+    {
+        "id": 5644,
+        "name": "bar opalen",
+        "latitude": 64.7357653,
+        "longitude": 20.9627547,
+        "following": true
+    },
+    {
+        "id": 4809,
+        "name": "Hemköp Nacka Forum",
+        "latitude": 59.311006,
+        "longitude": 18.165065,
+        "following": true
+    },
+    {
+        "id": 4317,
+        "name": "Rollin' Bistros",
+        "latitude": 57.706132,
+        "longitude": 11.940225,
+        "following": true
+    },
+    {
+        "id": 4186,
+        "name": "Citykonditoriet",
+        "latitude": 59.337183,
+        "longitude": 18.059139,
+        "following": false
+    },
+    {
+        "id": 4753,
+        "name": "Mr Shou Bistro",
+        "latitude": 57.7084854,
+        "longitude": 11.9733305,
+        "following": false
+    },
+    {
+        "id": 4664,
+        "name": "Talitas Bageri",
+        "latitude": 59.3822862,
+        "longitude": 17.8970363,
+        "following": true
+    },
+    {
+        "id": 3487,
+        "name": "Sharefood",
+        "latitude": 59.344443,
+        "longitude": 18.046857,
+        "following": false
+    },
+    {
+        "id": 4105,
+        "name": "Holy Greens - City Helsingborg",
+        "latitude": 56.048587,
+        "longitude": 12.692895,
+        "following": false
+    },
+    {
+        "id": 4731,
+        "name": "Taco Bar",
+        "latitude": 59.858876,
+        "longitude": 17.6489735,
+        "following": true
+    },
+    {
+        "id": 3530,
+        "name": "ICA Kvantum Liljeholmen",
+        "latitude": 59.309781,
+        "longitude": 18.023252,
+        "following": true
+    },
+    {
+        "id": 3842,
+        "name": "Gateau Station Triangeln",
+        "latitude": 55.594427,
+        "longitude": 13.000013,
+        "following": false
+    },
+    {
+        "id": 3515,
+        "name": "Gateau Vaxholm",
+        "latitude": 59.40259,
+        "longitude": 18.352758,
+        "following": false
+    },
+    {
+        "id": 3645,
+        "name": "Cheesecake Palace",
+        "latitude": 59.407817,
+        "longitude": 17.937931,
+        "following": false
+    },
+    {
+        "id": 4791,
+        "name": "Hemköp Stockholm Maria",
+        "latitude": 59.318387,
+        "longitude": 18.057215,
+        "following": true
+    },
+    {
+        "id": 3378,
+        "name": "Wienercaféet",
+        "latitude": 59.334154,
+        "longitude": 18.073054,
+        "following": true
+    },
+    {
+        "id": 5681,
+        "name": "K-märkt Hötorgshallen",
+        "latitude": 59.3343844,
+        "longitude": 18.0623226,
+        "following": true
+    },
+    {
+        "id": 3597,
+        "name": "Lundbygrillen",
+        "latitude": 57.710624,
+        "longitude": 11.932649,
+        "following": true
+    },
+    {
+        "id": 4348,
+        "name": "Cinyps Livsmedel",
+        "latitude": 59.5220399,
+        "longitude": 17.9052034,
+        "following": false
+    },
+    {
+        "id": 3974,
+        "name": "Restaurang Thai Silk",
+        "latitude": 57.720227,
+        "longitude": 12.936174,
+        "following": true
+    },
+    {
+        "id": 4373,
+        "name": "Brasserie Bobonne",
+        "latitude": 59.334978,
+        "longitude": 18.083076,
+        "following": false
+    },
+    {
+        "id": 4144,
+        "name": "Scandic Linköping City",
+        "latitude": 58.41239,
+        "longitude": 15.63274,
+        "following": false
+    },
+    {
+        "id": 4835,
+        "name": "Hemköp Stockholm Telefonplan",
+        "latitude": 59.298872,
+        "longitude": 17.996825,
+        "following": false
+    },
+    {
+        "id": 5443,
+        "name": "Café Fridhem",
+        "latitude": 55.5982764,
+        "longitude": 12.9719394,
+        "following": false
+    },
+    {
+        "id": 4331,
+        "name": "Sushirullen Farsta Centrum",
+        "latitude": 59.2429577,
+        "longitude": 18.0913567,
+        "following": false
+    },
+    {
+        "id": 5172,
+        "name": "Jensens Bøfhus - Sergelgatan",
+        "latitude": 59.332915,
+        "longitude": 18.063967,
+        "following": false
+    },
+    {
+        "id": 4059,
+        "name": "Café Live",
+        "latitude": 55.607477,
+        "longitude": 12.99324,
+        "following": true
+    },
+    {
+        "id": 5323,
+        "name": "Hemköp Saltsjö-Boo Lännersta",
+        "latitude": 59.314551,
+        "longitude": 18.259516,
+        "following": true
+    },
+    {
+        "id": 4141,
+        "name": "Scandic Klarälven",
+        "latitude": 59.391196,
+        "longitude": 13.497195,
+        "following": true
+    },
+    {
+        "id": 4486,
+        "name": "Meta's",
+        "latitude": 59.1273992,
+        "longitude": 15.1396347,
+        "following": true
+    },
+    {
+        "id": 3438,
+        "name": "Elwing & Co. Catering",
+        "latitude": 59.350103,
+        "longitude": 17.983395,
+        "following": false
+    },
+    {
+        "id": 4519,
+        "name": "sushi2go",
+        "latitude": 55.6079795,
+        "longitude": 13.0117303,
+        "following": true
+    },
+    {
+        "id": 4749,
+        "name": "TeloGott",
+        "latitude": 63.1766832,
+        "longitude": 14.6360681,
+        "following": true
+    },
+    {
+        "id": 5574,
+        "name": "Bistro Barbro",
+        "latitude": 59.3144344,
+        "longitude": 18.0331602,
+        "following": true
+    },
+    {
+        "id": 3729,
+        "name": "Kristallen Kök",
+        "latitude": 59.859693,
+        "longitude": 17.694557,
+        "following": false
+    },
+    {
+        "id": 4265,
+        "name": "Helio Solna Gate",
+        "latitude": 59.3546917,
+        "longitude": 17.9776856,
+        "following": false
+    },
+    {
+        "id": 5517,
+        "name": "Wayne's Coffee Väla Centrum",
+        "latitude": 56.0917524103686,
+        "longitude": 12.7570982608826,
+        "following": true
+    },
+    {
+        "id": 5522,
+        "name": "Cajsa Warg Södermalm",
+        "latitude": 59.3149907,
+        "longitude": 18.0838747,
+        "following": false
+    },
+    {
+        "id": 5416,
+        "name": "Phil´s Burger Drottninggatan",
+        "latitude": 59.337722,
+        "longitude": 18.057471,
+        "following": true
+    },
+    {
+        "id": 4081,
+        "name": "Bönor & Bagels",
+        "latitude": 57.694195,
+        "longitude": 11.952679,
+        "following": true
+    },
+    {
+        "id": 3894,
+        "name": "Millennium",
+        "latitude": 55.4171,
+        "longitude": 12.951522,
+        "following": false
+    },
+    {
+        "id": 3845,
+        "name": "Gateau Malmö Central",
+        "latitude": 55.60876,
+        "longitude": 13.000405,
+        "following": false
+    },
+    {
+        "id": 5579,
+        "name": "Xiang Yue",
+        "latitude": 59.3430782,
+        "longitude": 18.0786085,
+        "following": true
+    },
+    {
+        "id": 3753,
+        "name": "Pita Vasaplatsen",
+        "latitude": 57.699254,
+        "longitude": 11.969128,
+        "following": true
+    },
+    {
+        "id": 4188,
+        "name": "Eatery - Kista",
+        "latitude": 59.407197,
+        "longitude": 17.946039,
+        "following": false
+    },
+    {
+        "id": 4992,
+        "name": "Sushirullen Odenplan",
+        "latitude": 59.3433658,
+        "longitude": 18.0507121000001,
+        "following": true
+    },
+    {
+        "id": 5412,
+        "name": "Phil´s Burger Götgatan",
+        "latitude": 59.3098617,
+        "longitude": 18.0758071,
+        "following": false
+    },
+    {
+        "id": 4189,
+        "name": "Ohayo Sushi Take Away - Tannefors",
+        "latitude": 58.407756,
+        "longitude": 15.640053,
+        "following": true
+    },
+    {
+        "id": 3449,
+        "name": "Frick & Son",
+        "latitude": 59.348068,
+        "longitude": 18.060564,
+        "following": true
+    },
+    {
+        "id": 4349,
+        "name": "Kacha",
+        "latitude": 59.333195,
+        "longitude": 18.041361,
+        "following": false
+    },
+    {
+        "id": 4872,
+        "name": "Royal Viking hotel",
+        "latitude": 59.331427,
+        "longitude": 18.057547,
+        "following": true
+    },
+    {
+        "id": 4473,
+        "name": "PONG Lindhagen",
+        "latitude": 59.337588,
+        "longitude": 18.00925,
+        "following": false
+    },
+    {
+        "id": 4237,
+        "name": "Soja Sushi Mölnlycke",
+        "latitude": 57.657734,
+        "longitude": 12.115447,
+        "following": true
+    },
+    {
+        "id": 5192,
+        "name": "Yogiboost Mobilia",
+        "latitude": 55.583403,
+        "longitude": 13.004217,
+        "following": true
+    },
+    {
+        "id": 5092,
+        "name": "Paulibron Pizzeria",
+        "latitude": 55.6042807,
+        "longitude": 13.0098103,
+        "following": true
+    },
+    {
+        "id": 3837,
+        "name": "Café Jernet",
+        "latitude": 57.700771,
+        "longitude": 11.952624,
+        "following": true
+    },
+    {
+        "id": 3969,
+        "name": "Porter Pelle",
+        "latitude": 57.690763,
+        "longitude": 11.907297,
+        "following": true
+    },
+    {
+        "id": 4020,
+        "name": "AB Småland",
+        "latitude": 55.598131,
+        "longitude": 13.000931,
+        "following": false
+    },
+    {
+        "id": 4037,
+        "name": "Falafelbaren",
+        "latitude": 59.318445,
+        "longitude": 18.059356,
+        "following": true
+    },
+    {
+        "id": 3589,
+        "name": "Mr Johanssons",
+        "latitude": 57.679143,
+        "longitude": 12.003017,
+        "following": true
+    },
+    {
+        "id": 4511,
+        "name": "Restaurang Campus",
+        "latitude": 60.667834,
+        "longitude": 17.119199,
+        "following": false
+    },
+    {
+        "id": 3844,
+        "name": "Gateau Caroli",
+        "latitude": 55.606268,
+        "longitude": 13.00726,
+        "following": true
+    },
+    {
+        "id": 5051,
+        "name": "Tantawan Thai Kitchen",
+        "latitude": 57.69011,
+        "longitude": 11.908512,
+        "following": true
+    },
+    {
+        "id": 3677,
+        "name": "Restaurang Varvsholmen",
+        "latitude": 56.669892,
+        "longitude": 16.377874,
+        "following": false
+    },
+    {
+        "id": 5189,
+        "name": "1889 FAST FINE PIZZA",
+        "latitude": 59.3343345,
+        "longitude": 18.0705855,
+        "following": false
+    }
+]
