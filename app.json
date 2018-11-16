@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "MyTestProject",
-    "description": "A very interesting project.",
-    "slug": "MyTestProject",
+    "name": "KarmaTestProject",
+    "description": "Karma application project: React Developer",
+    "slug": "KarmaTestProject",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],

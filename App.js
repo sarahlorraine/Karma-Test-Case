@@ -1,5 +1,5 @@
 import React from 'react';
-import { Platform, StatusBar, StyleSheet, View } from 'react-native';
+import { Platform, StyleSheet, View } from 'react-native';
 import { AppLoading, Asset, Font, Icon } from 'expo';
 import AppNavigator from './navigation/AppNavigator';
 
@@ -12,27 +12,21 @@ export default class App extends React.Component {
     if (!this.state.isLoadingComplete) {
       return (
         <AppLoading
-          startAsync={this._loadResourcesAsync}
-          onError={this._handleLoadingError}
-          onFinish={this._handleFinishLoading}
+          startAsync={this.loadResourcesAsync}
+          onFinish={this.handleFinishLoading}
         />
       );
     } else {
       return (
         <View style={styles.container}>
-          {Platform.OS === 'android' && <StatusBar barStyle="default" />}
           <AppNavigator />
         </View>
       );
     }
   }
 
-  _loadResourcesAsync = async () => {
+  loadResourcesAsync = async () => {
     return Promise.all([
-      // Asset.loadAsync([
-      //   require('./assets/images/robot-dev.png'),
-      //   require('./assets/images/robot-prod.png'),
-      // ]),
       Font.loadAsync({
         ...Icon.Ionicons.font,
         'rubik': require('./assets/fonts/Rubik-Regular.ttf'),
@@ -40,7 +34,7 @@ export default class App extends React.Component {
     ]);
   };
 
-  _handleFinishLoading = () => {
+  handleFinishLoading = () => {
     this.setState({ isLoadingComplete: true });
   };
 }
